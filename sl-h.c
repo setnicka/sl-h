@@ -129,6 +129,8 @@ int main(int argc, char *argv[])
 
     initscr();
     noecho();
+    curs_set(0);
+    nodelay(stdscr, TRUE);
 #ifdef DEBUG
     printf("%d,%d\n\r", COLS, LINES);
     printf("Hit any key\n\r");
