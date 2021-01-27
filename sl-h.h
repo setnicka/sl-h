@@ -1,16 +1,16 @@
 /*========================================
  *    sl.h: Text data of SL version 3.01
- *	Copyright 1993 Toyoda Masashi 
- *		(toyoda@is.titech.ac.jp)
- *	Last Modified: 1992/12/23
+ *        Copyright 1993 Toyoda Masashi
+ *                (toyoda@is.titech.ac.jp)
+ *        Last Modified: 1992/12/23
  *========================================
  */
 
-#define D51HIGHT	10
-#define D51FUNNEL	 7
+#define D51HIGHT         10
+#define D51FUNNEL         7
 /*#define D51LENGTH       82*/
 #define D51LENGTH       172
-#define D51PATTERNS	 6
+#define D51PATTERNS       6
 
 
 #define D51STR1  "      ====        ________                ___________ "
@@ -60,10 +60,10 @@
 
 #define COALDEL "                             "
 
-#define LOGOHIGHT    	 6
-#define LOGOFUNNEL  	 4
+#define LOGOHIGHT        6
+#define LOGOFUNNEL       4
 #define LOGOLENGTH      84
-#define LOGOPATTERNS	 6
+#define LOGOPATTERNS     6
 
 #define LOGO1  "     ++      +------ "
 #define LOGO2  "     ||      |+-+ |  "
