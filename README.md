@@ -8,3 +8,12 @@ all.
 Copyright 1993,1998,2014 Toyoda Masashi (mtoyoda@acm.org)
 
 ![](demo.gif)
+
+Longer train - `sl-h`
+-----------------------------
+
+This version also contains `sl-h` version of the command taken from old Debian
+version of the `sl`. It displays much longer (but interruptible) train on train
+crossing.
+
+![](demo-sl-h.gif)
